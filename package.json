@@ -1,0 +1,15 @@
+{
+  "name": "hosehbot",
+  "version": "0.1.0",
+  "description": "A bot to help choose someone to do something",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "telegram-bot-api": "^1.1.0"
+  }
+}
